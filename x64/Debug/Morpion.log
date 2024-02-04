@@ -1,0 +1,6 @@
+﻿  Main.cpp
+  grid.cpp
+C:\GL\Morpion\grid.cpp(51,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\GL\Morpion\grid.cpp(51,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours...
+  Morpion.vcxproj -> C:\GL\Morpion\x64\Debug\Morpion.exe
